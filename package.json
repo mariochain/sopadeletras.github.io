@@ -2,6 +2,7 @@
   "name": "sopa-de-letras",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mariochain.github.io/sopadeletras.github.io/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

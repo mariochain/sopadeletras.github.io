@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sopadeletras.github.io/build/static/css/main.65f39290.css",
+    "main.js": "/sopadeletras.github.io/build/static/js/main.d631e090.js",
+    "static/js/453.de988efa.chunk.js": "/sopadeletras.github.io/build/static/js/453.de988efa.chunk.js",
+    "index.html": "/sopadeletras.github.io/build/index.html",
+    "main.65f39290.css.map": "/sopadeletras.github.io/build/static/css/main.65f39290.css.map",
+    "main.d631e090.js.map": "/sopadeletras.github.io/build/static/js/main.d631e090.js.map",
+    "453.de988efa.chunk.js.map": "/sopadeletras.github.io/build/static/js/453.de988efa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65f39290.css",
+    "static/js/main.d631e090.js"
+  ]
+}
